@@ -9,6 +9,13 @@
 ### Object Oriented Programming
 #### SOLID Principles
 
+## Sofwtware Architectures
+
+## Web Architectures
+
+## HTTP and REST
+
+
 ## Front end
 
 ### Basics
@@ -67,20 +74,6 @@
 
 ## Versioning
 ### Git
-
-
-
-### Net
-
-### C#
-
-## Web Architectures
-
-## HTTP and REST
-
-## Data storage
-
-## Sofwtware Architectures
 
 ## Soft skills
 
