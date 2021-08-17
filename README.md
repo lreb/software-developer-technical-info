@@ -130,3 +130,8 @@
 ## Soft skills
 
 
+----
+Sources
+
+[MD content editor](https://ecotrust-canada.github.io/markdown-toc/)
+
