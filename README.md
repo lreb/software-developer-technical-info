@@ -75,7 +75,7 @@
 #### CSS
 #### JavaScript
 
-### Frameworks
+### Frontend Frameworks
 #### Angular
 #### React
 
@@ -89,6 +89,11 @@
 #### Python
 #### C Sharp
 #### Node js
+#### Ruby
+
+### Backend Frameworks
+
+#### .Net
 #### Ruby on Rails
 
 ## Database
