@@ -12,3 +12,5 @@ Main Components
 5. Just In time Compiler (JIT): uses assemblies to turn into machine code that can execute on the specific architecture of the computer it is running on.
 6. Machine Code: Binary code that is executed by the CPU.
 
+
+[Go Home](https://github.com/lreb/software-developer-technical-info)
